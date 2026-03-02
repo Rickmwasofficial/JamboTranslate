@@ -1,0 +1,5 @@
+{
+  "name": "JamboTranslate AI",
+  "description": "Real-time Swahili-English speech translation and AI voice conversation powered by Gemini Live.",
+  "requestFramePermissions": ["microphone"]
+}
